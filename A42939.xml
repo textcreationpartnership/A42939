@@ -1,0 +1,335 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>God's marvellous wonders in England containing divers strange and wonderful relations that have happened since the beginning of June, this present year 1694. I. A strange and wonderful shower of wheat that fell in Wiltshire, on the 27th. of June, 1694. of which people gathered considerable quantities in the fields and roads, &amp;c. II. The Kentish wonder; or, an account of sundry grass fields sprouting up with corn, where none has been known to be sown for 4 years past, near Maidstone, in Kent in the grounds of an honest farmer, who who [sic] was very charitable to the poor in these hard times. III. An account of a terrible storm of hail, near Darlington, in the bishoprick of D[ur]ham, on the 2. of July, 1694. by which divers persons and cattel were hurt, and birds in their flight beat down dead; with the hailstones of 6 inches in circumference, in divers fo[r]ms, as swords, coronets divers sorts of fruits, &amp;. IV. An account of a mighty monstrous whale app[e]aring off the mouth of the River Humber, of 40 foot in length on t</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42939</idno>
+            <idno type="STC">Wing G960A</idno>
+            <idno type="STC">ESTC R223685</idno>
+            <idno type="EEBO-CITATION">99833971</idno>
+            <idno type="PROQUEST">99833971</idno>
+            <idno type="VID">38450</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42939)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38450)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1831:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>God's marvellous wonders in England containing divers strange and wonderful relations that have happened since the beginning of June, this present year 1694. I. A strange and wonderful shower of wheat that fell in Wiltshire, on the 27th. of June, 1694. of which people gathered considerable quantities in the fields and roads, &amp;c. II. The Kentish wonder; or, an account of sundry grass fields sprouting up with corn, where none has been known to be sown for 4 years past, near Maidstone, in Kent in the grounds of an honest farmer, who who [sic] was very charitable to the poor in these hard times. III. An account of a terrible storm of hail, near Darlington, in the bishoprick of D[ur]ham, on the 2. of July, 1694. by which divers persons and cattel were hurt, and birds in their flight beat down dead; with the hailstones of 6 inches in circumference, in divers fo[r]ms, as swords, coronets divers sorts of fruits, &amp;. IV. An account of a mighty monstrous whale app[e]aring off the mouth of the River Humber, of 40 foot in length on t</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby at the Golden-Ball, in Pye-corner,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Supernatural --  England --  Early works to 1800.</term>
+               <term>Miracles --  England --  Early works to 1800.</term>
+               <term>Murder --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38450:1" rendition="simple:additions"/>
+            <pb facs="tcp:38450:1" rendition="simple:additions"/>
+            <p>
+               <hi>God's Marvellous Wonders</hi> In <hi>ENGLAND:</hi> Containing divers ſtrange and wonderful RE<g ref="char:EOLhyphen"/>LATIONS that have happened ſince the begin<g ref="char:EOLhyphen"/>ning of <hi>June,</hi> this preſent Year 1694.</p>
+            <list>
+               <item>I. A ſtrange and wonderful Shower of Wheat that fell in <hi>Wiltſhire,</hi> on the 27th, of <hi>June,</hi> 1694. of which People gathered conſiderable Quantities in the Fields and Roads, <hi>&amp;c.</hi>
+               </item>
+               <item>II. The Kentiſh Wonder; or, An Account of ſundry Graſs Fields ſprouting up with Corn, where none has been known to be ſown for 4 Years paſt, near <hi>Maid<g ref="char:EOLhyphen"/>ſtone</hi> in <hi>Kent</hi> in the Grounds of an honeſt Farmer, who who was very Charitable to the Poor in theſe hard Times.</item>
+               <item>III. An Account of a Terrible Storm of Hail, near <hi>Darlington,</hi> in the Biſhoprick of <hi>Durham,</hi> on the 2d. of <hi>July,</hi> 1694. by which divers Perſons and Cattel were hurt, and Birds in their flight beat down dead; with the Hailſtones of 6 Inches in Circumference, in divers Fo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ms, as Swords, Coronets; divers ſorts of Fruits, <hi>&amp;c.</hi>
+               </item>
+               <item>IV. An Account of a mighty monſtrous Whale appearing off the Mouth of the River <hi>Humber,</hi> of 40 Foot in length on the 27th. of <hi>June</hi> laſt; and the dreadful Encounter that happened between it and ſome Fiſher-men, <hi>&amp;c.</hi>
+               </item>
+               <item>V. An Account of the Diſcovery of the Mur<g ref="char:EOLhyphen"/>ther and Robbery committed on the Body of one Mrs. <hi>Grand,</hi> the old miſerable rich French woman, of <hi>Spittle-Fields,</hi> on the <hi>9th.</hi> of <hi>June:</hi> For which <hi>John Jewſter,</hi> and one <hi>Butler</hi> were ſince Hang'd.</item>
+               <item>VI. A wonderful Diſcovery of a Murther commit<g ref="char:EOLhyphen"/>ted on 2 Women in <hi>Short's-Gardens</hi> in St. <hi>Giles</hi>'s <hi>in the Fields,</hi> wh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch being acted about 3 Years ſince, was diſcovered the <hi>20th.</hi> of <hi>June,</hi> 1694. by one <hi>Dee</hi> or <hi>Day,</hi> a Bailiff's Follower, on his dying ſick Bed, owning himſelf to be the Murtherer, &amp; that he could not dye without revealing it.</item>
+            </list>
+            <p>Licenſed according to Order.</p>
+            <p>Printed for <hi>P. Brooksby,</hi> at the <hi>Golden-Ball,</hi> in <hi>Pye-<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orner.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb n="2" facs="tcp:38450:2"/>
+            <head>TO THE READER.</head>
+            <p>WE have not only heard from former Ages, but have ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſelves been Witneſſes of God's Wonder<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that he has brought forth amongſt us viſibly declaring his Power and Good<g ref="char:EOLhyphen"/>neſs to the Sons of Men, in ſo ſenſible a manner, as to make all reaſonable and thinking People admire and adore h<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Mercy, and of various Kinds, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which we ſhall herein give many Inſtan<g ref="char:EOLhyphen"/>ces, as they occur in their ſundry Me<g ref="char:EOLhyphen"/>thods.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:38450:2"/>
+            <head>
+               <hi>God's Marvellous Wonders</hi> In <hi>ENGLAND:</hi> Containing divers ſtrange and wonder<g ref="char:EOLhyphen"/>ful RELATIONS that have hap<g ref="char:EOLhyphen"/>pened ſince the beginning of <hi>June</hi> this pre<g ref="char:EOLhyphen"/>ſent Year, 1694.</head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP. I.</hi> A ſtrange and wonderful Account of the rain<g ref="char:EOLhyphen"/>ing of Wheat out of the Skies in <hi>Wiltſhire.</hi>
+               </head>
+               <p>WE have an Account from divers Perſons of Credit, in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Wilts,</hi> That ſome People being early abroad on the 27th. of <hi>June</hi> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſt, to get in their Hay, and about their other neceſſary Occaſions, obſerved Grains of Wheat to drop on them, and on the Ground round about them; ſome very <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ong, ſome more round than uſually our Wheat is, and ſome as it were Triangle or Three-corner'd: At firſt they ſuppoſed <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t might be blown from the neighbouring
+<pb n="4" facs="tcp:38450:3"/>Ricks or Barns, the Wind being pretty high, and the Weather very hot, which might make the Husk give way, and looſen the Grain; or that ſome Birds flying over their Heads, might drop it out of their Beaks: But upon a more ſtricter Obſerva<g ref="char:EOLhyphen"/>tion it happened from none of theſe; fo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in ſome Places it fell ſo thick, that ſome of them picked up a Pint in a little ſpace and found it along the Road, near <hi>Wodden Baſſet.</hi> And here it ſo happened in diver<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> other Parts of that County to their great Admiration and Aſtoniſhment; ſo that upon ſome Showers of Rain that fell, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſoon after ſprung up in the Roads and o<g ref="char:EOLhyphen"/>ther Places, where no other Wheat ha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> been known to be ſcattered in many Years Some Letters that brought this Relatio<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to Town, had ſeveral of the Grains <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Wheat encloſed in them, looking of <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> yellowiſh Colour, and ſomewhat ſmall<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> than our uſual Wheat.</p>
+               <p>We have an Account of the like th<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſince has happened in <hi>York-ſhire,</hi> near <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Market Town, called <hi>Wigton.</hi>
+               </p>
+               <p>
+                  <hi>This is the Lord's Doings, and is m<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>vellous in our Eyes.</hi> Therefore, ſince G<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:38450:3"/>provides for us as he did for the Children of <hi>Iſrael,</hi> when he ſhowred Quails and Manna on them, let us be thankful; let thoſe he has bleſſed with Riches and Plenty remember their poor Brethren in theſe hard Times, that ſo God may continue his Bleſſing on us and our Heritage.</p>
+               <epigraph>
+                  <q>Give Alms of thy Goods, and never turn thy Face from any poor Man, and then the Face of the Lord ſhall not be turned away from thee,</q>
+                  <bibl>Tobit 4.7.</bibl>
+               </epigraph>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>CHAP. II.</hi> An Account of the Kentiſh Wonder, or Graſs-Fields ſprouting up with Wheat, unſown, ſome of them Six Ears on a Root, near <hi>Maidſtone,</hi> &amp;c.</head>
+               <p>ANother wonderful Providence, much to the ſame purpoſe, we have from <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Place near <hi>Maidſtone,</hi> in the County of <hi>Kent;</hi> which take in the following man<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er:</p>
+               <p>Near to this Town lived an honeſt Far<g ref="char:EOLhyphen"/>mer, who by his Induſtry had raiſed him<g ref="char:EOLhyphen"/>ſelf pretty well in the World, and gained
+<pb n="6" facs="tcp:38450:4"/>a very good Repute among his Neigh<g ref="char:EOLhyphen"/>bours, eſpecially the poorer ſort, for his Charitable Inclination to relieve their Wants and Neceſſities, in dear and hard Times. When, in the laſt ſcarce Winter, ſome other Farmers ſharply reproved him for under-ſelling his Corn, he reply'd, See<g ref="char:EOLhyphen"/>ing God had given him all he had, it was but Reaſon the Poor, as God had comman<g ref="char:EOLhyphen"/>ded, ſhould have the benefit of it, ſeeing the oftner he had relieved their Neceſſities, the more Bleſſings followed him.</p>
+               <p>He had this Year divers Paſture-Gounds, that had been lay'd down from any Plough<g ref="char:EOLhyphen"/>ing, for the ſpace of Four Years paſt, and through which no Corn had been carry'd, that it might by careleſneſs or otherway<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſcatter, when to the great Wonder and A<g ref="char:EOLhyphen"/>mazement of himſelf and others, in the Spring, expecting Graſs to ſpring up Blades of Corn, inſtead of it, ſprouted up innumerable, ſo that Cattel was put in t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> eat it down, as ſuppoſing it would grow up to nothing but Straw, and hinder the Gra<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> from putting out; but in a little while per<g ref="char:EOLunhyphen"/>ceiving it grew amain, notwithſtanding th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> feeding, he drove out the Cattle, reſolvin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:38450:4"/>to try what it would come to: When in the Seaſon, it put forth Ears very large; and it is ſaid, upon ſome, or a great ma<g ref="char:EOLhyphen"/>ny of the Stalks, were divers Ears, as 3, 4, and ſome 6; and that it is now grow<g ref="char:EOLhyphen"/>ing flouriſhing, to the Admiration of all that behold it, eſpecially in one large Field behind his Houſe, he giving any that come to ſee it, leave to pluck the Ears, and carry them away, as To<g ref="char:EOLhyphen"/>kens of God's wonderful Work of Pro<g ref="char:EOLhyphen"/>vidence.</p>
+               <p>From this, <hi>Let us remember to do Good, and forget not; for with ſuch Sacrifices God is well pleaſed.</hi>
+               </p>
+               <epigraph>
+                  <q>He that hath Pity on the Poor, lendeth to the Lord, and look what he layeth out, it ſhall be payed him again,</q>
+                  <bibl>Prov. 19.17.</bibl>
+               </epigraph>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CHAP. III.</hi> A wonderful Relation of a dreadful Storm of Hail, that happened at <hi>Darlington,</hi> in the Biſhoprick of <hi>Durham,</hi> on the <hi>2d.</hi> of <hi>July, 1694.</hi>
+               </head>
+               <p>STrange are the Wonders and Products of the Airy Region, in forming ſe<g ref="char:EOLhyphen"/>veral Shapes, as well as airy Phantoms of
+<pb n="8" facs="tcp:38450:5"/>Men and Horſes, Caſtles, Ships, and the like, and many times repreſenting Fights and Battels, with great Lightnings and Thunders, as well Curtains of fiery and dusky Clouds, to draw over the ſeeming Tragick Scene. As alſo the formation of Vapours congealed or condenſed into a ſo<g ref="char:EOLhyphen"/>lid Ice or Hail in the Sky, in ſuch Forms and Faſhions, as has outdone Man's Art to invent.</p>
+               <p>This has happened at ſundry times in ſmall Quantities; but for largeneſs and ſtrange Forms, ſcarce any have paralell'd what we are about to deſcribe.</p>
+               <p>At <hi>Darlington,</hi> in the Biſhoprick of <hi>Durham,</hi> on the <hi>2d.</hi> of <hi>July,</hi> 1694. about 3 of the Clock in the Afternoon, a great dark Cloud ariſing from <hi>Weſt,</hi> and by <hi>North,</hi> ſpread it ſelf very wide over the compaſs of a great quantity of Ground, when immediately a Clap or Two of Thunder breaking from it, with ſome Flaſhes of Lightning, e're the Travel<g ref="char:EOLhyphen"/>lers, and ſuch as were getting in their Hay, and about other rural Affairs, could get ſhelter, to which they haſted, as fearing
+<pb n="9" facs="tcp:38450:5"/>only a terrible Wetting, great Hailſtones fell down to the bigneſs of Pigeons Egs in great abundance, inſomuch that divers Peo<g ref="char:EOLhyphen"/>ple were ſore hurt, as alſo the ſmaller ſort of Cattle who ſtood piteouſly crying and bla<g ref="char:EOLhyphen"/>ting in the Fields, and on the Plains; the Shep<g ref="char:EOLhyphen"/>herds by the ſudden ſurprize being forc'd to fly to ſhelter and leave them. The Tiles and Windows in ſome Villages thereabouts, were miſerably ſhatter'd and broken, and divers Starks, Crows, and Daws then upon the wing, were beaten down, ſome dead and ſome wounded.</p>
+               <p>The main force of this terrible Storm continued ſcarce a quarter of an Hour; but the oldeſt People declare they never ſaw any ſo fierce and violent in all their Times.</p>
+               <p>The Storm being over, and the Peoples Fears a little diſſipated, divers of the Stones were taken up and found to be 4, 5, and 6 Inches in circumference, and many in vari<g ref="char:EOLhyphen"/>ous Forms, as Swords, Coronets, Pears, Peaches, Plumbs, bearded Ears of Corn, Roots, and Flowers, and divers others, which they really reſembl'd, or Peoples Fancy enclin'd them to: But the Weather hereupon growing extream hot, they va<g ref="char:EOLhyphen"/>niſhed
+<pb n="10" facs="tcp:38450:6"/>in a diſſolution of Water. We do not hear it has any ways much endamag'd the Corn in theſe Places; firſt, by reaſon of the ſhort continuance of the one, and the not being full grown up of the other.</p>
+               <p>Thus we ſee how terribly God can arm the Elements, when he pleaſes, to ſcare us from the dull ſecurity of our Sins to a time<g ref="char:EOLhyphen"/>ly and lively Repentance: For as <hi>David</hi> ſays,</p>
+               <epigraph>
+                  <q>He made Darkneſs his ſecret Place, his Pa<g ref="char:EOLhyphen"/>vilion round about him with dark Water, and thick Clouds to cover him. The Lord alſo thundred out of Heaven, and the Higheſt utte<g ref="char:EOLhyphen"/>red his Voice, Hailſtones &amp; Fire,</q>
+                  <bibl>Pſ. 8.11.13.</bibl>
+               </epigraph>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CHAP. IV.</hi> An Account of a terrible and monſtrous Whale, diſcov<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red off the River <hi>Humber,</hi> and the Encounter that happened between it and ſome Fiſher-men, <hi>&amp;c.</hi>
+               </head>
+               <p>SOme ſmall Veſſels, the <hi>27th.</hi> of <hi>June,</hi> being a little beyond the Mouth of the River <hi>Humber,</hi> the Wind at South-Weſt and by Weſt, blowing a freſh gale, one of the Men going up to order the Sail, eſpy'd, about a Furlong from them, the Water to ſpout up and fly in the Air, which made them conceit, at firſt, it might be a
+<pb n="11" facs="tcp:38450:6"/>Watergall fallen into the Sea; but coming nearer, they perceived the Head of a mighty Fiſh toſſing up, and ſtill as that ducked down, her Tail appeared, and found it to be a Whale of a vaſt bigneſs, computed between 40 and 50 Foot long, and about 3 parts of that meaſure in Cir<g ref="char:EOLhyphen"/>cumference; wherefore putting before it, and firing a Muſquet twice or thrice, with a haſping Iron, which ſtuck in her Back, they thought to have turned her, that ſhe might have taken the River, but could not: For upon her being wounded, which was very lightly, by reaſon they were not prepared for ſuch an unexpected Encoun<g ref="char:EOLhyphen"/>ter, ſhe ſunk about 4 Minutes; and then coming up without the Iron, which 'tis ſuppoſed ſhe had rubbed off, ſhe made a<g ref="char:EOLhyphen"/>way to the N. E. and got clear of them.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>
+                  <hi>CHAP. V.</hi> An Account of the Diſcovery of the bloody Murther and Robbery committed on Mrs. <hi>Le Grand</hi> in <hi>Spittle Fields,</hi> &amp;c.</head>
+               <p>STrange and wonderful is God's Provi<g ref="char:EOLhyphen"/>dence in diſcovering the Wickedneſs and Barbarity of Mankind, in ſhedding
+<pb n="12" facs="tcp:38450:7"/>his fellow-Creatures Blood, and defacing, by that impious Violence, the Image of his Creator, as has been evidently demon<g ref="char:EOLhyphen"/>ſtrated by the ſtrange ways Murthers have been brought to light, though committed never ſo ſecretly; ſometimes by Men's reſtleſs and guilty Conſciences, and ſome<g ref="char:EOLhyphen"/>times by Ghoſts and Spirits, of which Examples Hiſtory and Authors treating of ſuch Subjects, are very full, and give ſuch Inſtances, ſo well teſtified and con<g ref="char:EOLhyphen"/>firmed by credible Perſons, that they are beyond Contradiction.</p>
+               <p>But among others, we ſhall preſent you with a very late Diſcovery of a barbarous and bloody Murther, no leſs remarkable in the Circumſtances, and Hand of Pro<g ref="char:EOLhyphen"/>vidence that brought it to light, than any of the former.</p>
+               <p>In a Place called <hi>Spittle-Fields,</hi> near the <hi>Artil'ery Ground,</hi> by <hi>Biſhopſgate-ſtreet, London,</hi> lived one Mrs. <hi>Le Grand,</hi> by Birth a Walloon French-woman, but had a long time been in <hi>England,</hi> marry'd to a Maſter-Weaver; who having a very conſiderable Trade, got Money apace,
+<pb n="13" facs="tcp:38450:7"/>and dying, left his Wife, the Party above-mention'd, very rich, but withal, ſo niggardly and pining, that to Strangers e<g ref="char:EOLhyphen"/>ſpecially, ſhe ſeemed to be the pooreſt Woman in the Place, and ſtuck not to re<g ref="char:EOLhyphen"/>ceive the Charity of well diſpoſed People, in private, tho', at the ſame time, ſhe was better able to give them. She continued privately to lend out Money upon the Tal<g ref="char:EOLhyphen"/>ly, and by other Methods, ſo that ſhe had hoarded up more Riches then can eaſily be believ'd, ſome ſay 10000 Pounds, and the leaſt 2000. But notwithſtanding all her cunning, ſome of her Kindred got an inkling of it, and eſpecially one <hi>John Jew<g ref="char:EOLhyphen"/>ſter,</hi> who kept an Ale-houſe in <hi>Biſhops-gate-ſtreet,</hi> and ſaid to marry one of her Kinſwomen; and ſhe, it ſeems, living lon<g ref="char:EOLhyphen"/>ger than he expected, he undertook to rid her by a more ſpeedy way: For con<g ref="char:EOLhyphen"/>federating with one <hi>Butler,</hi> a Perſon of a notorious Life, and Others, they on the <hi>8th.</hi> of <hi>June,</hi> lay'd a Plot to Rob her; and the next Day they proceeded, between 9 and 10 in the Evening, to put it in pra<g ref="char:EOLhyphen"/>ctice: When as <hi>Jewſter, Butler,</hi> and a<g ref="char:EOLhyphen"/>nother, came to her Houſe, and ſinding
+<pb n="14" facs="tcp:38450:8"/>none but her, and an old Woman within, they, under pretence of coming about Bu<g ref="char:EOLhyphen"/>ſineſs, got entrance; and having cloſe ſhut the Door, without any other Ceremony, <hi>Butler</hi> ſiez'd Mrs. <hi>Le Grand,</hi> and barba<g ref="char:EOLhyphen"/>rouſly Murther'd her by ſtrangling, <hi>&amp;c.</hi> and then girt a Handkerchief ſo faſt about the Neck of the other old Woman, that leaving her for Dead, they fell to break<g ref="char:EOLhyphen"/>ing open the Cheſts, Boxes, and Trunks, where they found ſuch large quantities of Money, that they were not able to carry off a half part of it; yet loaded them<g ref="char:EOLhyphen"/>ſelves ſo hard, that a 200 Pound Bag was found drop'd in the Street, tho' they were not purſu'd.</p>
+               <p>Soon after their Departure, the Linner about the laſt old Woman's Neck ſlack<g ref="char:EOLhyphen"/>ning, by a Hand of Providence, as it were to bring this Wickedneſs to light, ſhe groan<g ref="char:EOLhyphen"/>ed ſo hard, that a next Neighbour heard her; and coming to ſee what the Matter was, found the Door open, and one mur<g ref="char:EOLhyphen"/>ther'd Body in the Houſe. Whereupon calling for other Neighbours, they entred and found what had happen'd. Three Days after, the murthered Woman was
+<pb n="15" facs="tcp:38450:8"/>buried; and tho' ſtrict Enquiry was made, and many Houſes ſearched, yet no diſco<g ref="char:EOLhyphen"/>very, in ſome time, was made; nor were the Parties that really did it, any ways ſuſ<g ref="char:EOLhyphen"/>pected, till ſuch time as Providence brought it to light: For one <hi>Francis Jewſter,</hi> Bro<g ref="char:EOLhyphen"/>ther to the aforemention'd Party of that Name, having been made acquainted with the Buſineſs, and deſired to be there, (tho' it does not appear he was with them) he grew ſo reſtleſs, for fear of being brought <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n for a ſnack, or rather the Hand of Hea<g ref="char:EOLhyphen"/>ven compelling him to it, that he could not <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt till he had diſcover'd it by Words he <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et drop; which caus'd him to be brought upon Examination before a Magiſtrate, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd there he declar'd as much as they had made him privy to. Upon this, He, his Brother, and <hi>Butler,</hi> were committed to Gaol; and the Seſſions coming on, they <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ook their Tryals at the Seſſions-Houſe, in <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he <hi>Old-Baily,</hi> on the <hi>13th.</hi> of <hi>July;</hi> where <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t appearing <hi>Butler,</hi> &amp; Others, killed Mrs. <hi>Le Grand, John Jewſter</hi> being there at that <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ime, they were found guilty of the Mur<g ref="char:EOLhyphen"/>ther and Felony, and receiv'd Sentence of Death, and were ſince executed. But <hi>Fran<g ref="char:EOLhyphen"/>cis
+<pb n="16" facs="tcp:38450:9"/>Jewſter,</hi> tho' he was knowing; of th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Buſineſs, yet it not appearing he was with them at the time of the commitment o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Fact, was acquitted.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>
+                  <hi>CHAP. VI.</hi> The Diſcovery of a barbarous and bloody Mur<g ref="char:EOLunhyphen"/>ther committed in <hi>Shorts-Gardens,</hi> i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> St. <hi>Giles's in the Fields,</hi> &amp;c.</head>
+               <p>ABout 3 Years ſince, a Woman &amp; her Kinſ<g ref="char:EOLhyphen"/>woman, keeping a Coffee-Houſe i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Shorts-Gardens</hi> in St. <hi>Giles's in the Fields,</hi> ha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the Night-time their Houſe broken open and both barbarouſly murthered, as havin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their Throats cut. This Murther, tho' gre<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſearch was made after the Murtherers, was no<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> found out till Providence had diſcover'd i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> For one <hi>Charles Dey,</hi> or <hi>Day,</hi> a Bailiff's Fo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>lower, falling ſick about the end of <hi>June</hi> laſt of a languiſhing Diſeaſe, appear'd from t<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> beginning of his Sickneſs much troubl'd <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Mind, till finding he muſt die, as given ov<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a dead Man, he called ſome People to him and declared he could not die quiet, till <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> had revealed a Secret, which happen'd <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be theſe 2 Murthers; and ſoon after h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> gave up the Ghoſt, to anſwer for it before the Righteous Judge of all the Earth.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:38450:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
